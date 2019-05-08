@@ -1,0 +1,4 @@
+m :
+	cc main.c
+big : m
+	./a.out addresses.txt
